@@ -33,7 +33,7 @@ int main() {
     }
 
     // Multiplication
-    double num4 = 45.0 / 2.0;
+    float num4 = 45.0 / 2.0;
     if (num4 * 2 == 45) {
         std::cout << num4 << " * 2 = " << num4 * 2 << std::endl;
     }
